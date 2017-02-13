@@ -39,5 +39,88 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff8057', end
 .promo-img {
   max-width: 100%;
   border-radius: 0px;
-  border: 8px solid #fff;
+  border: 12px solid #fff;
+}
+.omg-cute {
+  background-color: #1a1a1a;
+  background: url(../images/omg-cute.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.has-shadow {
+  -webkit-box-shadow: 0px 4px 12px 0px rgba(0,0,0,0.15);
+  -moz-box-shadow: 0px 4px 12px 0px rgba(0,0,0,0.15);
+  box-shadow: 0px 4px 12px 0px rgba(0,0,0,0.15);
+}
+.employee-photo {
+  height: 220px;
+  width: 100%;
+  border-radius: 3px;
+  margin-bottom: 8px;
+}
+.employee-1 {
+  background-color: #1a1a1a;
+  background: url(../images/employee-1.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.employee-2 {
+  background-color: #1a1a1a;
+  background: url(../images/employee-2.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.employee-3 {
+  background-color: #1a1a1a;
+  background: url(../images/employee-3.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.employee-4 {
+  background-color: #1a1a1a;
+  background: url(../images/employee-4.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.employee-5 {
+  background-color: #1a1a1a;
+  background: url(../images/employee-5.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.employee-6 {
+  background-color: #1a1a1a;
+  background: url(../images/employee-6.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.employee-7 {
+  background-color: #1a1a1a;
+  background: url(../images/employee-7.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.employee-8 {
+  background-color: #1a1a1a;
+  background: url(../images/employee-8.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
