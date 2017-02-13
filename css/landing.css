@@ -37,6 +37,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff8057', end
   border-radius;
 }
 .promo-img {
-  border-radius: 10px;
-  border: 10px solid #fff;
+  max-width: 100%;
+  border-radius: 0px;
+  border: 8px solid #fff;
 }
